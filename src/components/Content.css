@@ -1,0 +1,14 @@
+.content {
+    height: 100vh;
+    transition: all 0.3s ease-in-out;
+}
+
+.content.dark {
+    background-color: rgb(74, 27, 110);
+    color: rgb(181, 153, 202);
+}
+
+.content.light {
+    background-color: rgb(181, 153, 202);
+    color: rgb(74, 27, 110);
+}
