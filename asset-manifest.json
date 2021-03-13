@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/context-api-darkmode/static/css/main.c47e10bc.chunk.css",
-    "main.js": "/context-api-darkmode/static/js/main.61f15674.chunk.js",
-    "main.js.map": "/context-api-darkmode/static/js/main.61f15674.chunk.js.map",
+    "main.css": "/context-api-darkmode/static/css/main.627c7784.chunk.css",
+    "main.js": "/context-api-darkmode/static/js/main.06cc3fe8.chunk.js",
+    "main.js.map": "/context-api-darkmode/static/js/main.06cc3fe8.chunk.js.map",
     "runtime-main.js": "/context-api-darkmode/static/js/runtime-main.daf903b9.js",
     "runtime-main.js.map": "/context-api-darkmode/static/js/runtime-main.daf903b9.js.map",
     "static/js/2.7a41ad8f.chunk.js": "/context-api-darkmode/static/js/2.7a41ad8f.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.64c72b79.chunk.js": "/context-api-darkmode/static/js/3.64c72b79.chunk.js",
     "static/js/3.64c72b79.chunk.js.map": "/context-api-darkmode/static/js/3.64c72b79.chunk.js.map",
     "index.html": "/context-api-darkmode/index.html",
-    "static/css/main.c47e10bc.chunk.css.map": "/context-api-darkmode/static/css/main.c47e10bc.chunk.css.map",
+    "static/css/main.627c7784.chunk.css.map": "/context-api-darkmode/static/css/main.627c7784.chunk.css.map",
     "static/js/2.7a41ad8f.chunk.js.LICENSE.txt": "/context-api-darkmode/static/js/2.7a41ad8f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.daf903b9.js",
     "static/js/2.7a41ad8f.chunk.js",
-    "static/css/main.c47e10bc.chunk.css",
-    "static/js/main.61f15674.chunk.js"
+    "static/css/main.627c7784.chunk.css",
+    "static/js/main.06cc3fe8.chunk.js"
   ]
 }
